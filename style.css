@@ -1,108 +1,125 @@
 html, body {
-width: 100%;
-height: 100%;
-background-image: linear-gradient(100deg,  #a4dded,  #ffb7c5);
-overflow-x: hidden ;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(100deg, #a4dded, #ffb7c5);
+    overflow-x: hidden ;
 }
 
 h1 {
-  color: white;
-  text-align: center;
-  font-family: verdana;
-  font-size: 50px
+    color: white;
+    text-align: center;
+    font-family: verdana;
+    font-size: 50px
 }
+
 #para1 {
-  text-align: center;
-  color: white;
-  font-family: sans-serif;
-  font-size: 20px
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px
 }
+
 h2 {
-  color: white;
-  text-align: center;
-  font-family: verdana;
-  font-size: 30px
+    color: white;
+    text-align: center;
+    font-family: verdana;
+    font-size: 30px
 }
+
 #para2 {
-  text-align: center;
-  color: white;
-  font-family: sans-serif;
-  font-size: 20px
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px
 }
+
 #para3 {
-  text-align: center;
-  color: white;
-  font-family: sans-serif;
-  font-size: 20px
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px
 }
+
 #para4 {
-  text-align: center;
-  color:   #cfb53b;
-  font-family: sans-serif;
-  font-size: 20px
+    text-align: center;
+    color: #cfb53b;
+    font-family: sans-serif;
+    font-size: 20px
 }
+
 #para5 {
-  text-align: center;
-  color:    #ffa500;
-  font-family: sans-serif;
-  font-size: 20px
+    text-align: center;
+    color: #ffa500;
+    font-family: sans-serif;
+    font-size: 20px
 }
+
 #para6 {
-  text-align: center;
-  color:    #0f0f0f;
-  font-family: sans-serif;
-  font-size: 20px
+    text-align: center;
+    color: #0f0f0f;
+    font-family: sans-serif;
+    font-size: 20px
 }
+
 #para7 {
-  text-align: center;
-  color:    #ff8c00;
-  font-family: sans-serif;
-  font-size: 20px
+    text-align: center;
+    color: #ff8c00;
+    font-family: sans-serif;
+    font-size: 20px
 }
+
 h3 {
-  color: white;
-  text-align: center;
-  font-family: verdana;
-  font-size: 25px
+    color: white;
+    text-align: center;
+    font-family: verdana;
+    font-size: 25px
 }
+
 #para8 {
-  text-align: center;
-  color:   white;
-  font-family: sans-serif;
-  font-size: 20px
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px
 }
+
 #para9 {
-  text-align: center;
-  color:    white;
-  font-family: sans-serif;
-  font-size: 20px
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px
 }
+
 .buttonReddit {
     text-decoration: underline;
     color: white;
     padding: 0.2em 0.4em;
 }
+
 .buttonDiscord {
     text-decoration: underline;
     color: white;
     padding: 0.2em 0.4em;
 }
+
 #para10 {
-  text-align: center;
-  color:    white;
-  font-family: sans-serif;
-  font-size: 20px
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px
 }
+
 #end {
-  color:    white;
-  font-family: sans-serif;
-  font-size: 10px
+    color: white;
+    font-family: sans-serif;
+    font-size: 10px
 }
+
 #tor {
-  color:    white;
-  font-family: sans-serif;
-  font-size: 15px
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px
 }
+
 .buttonClear {
     text-decoration: underline;
     color: white;
